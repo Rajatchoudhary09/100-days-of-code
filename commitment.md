@@ -9,6 +9,6 @@
 
 **Request:** I request you all to poke me and make me accountable if I fail to update on a single day.
 
-### **Link to my Facebook :** [Fb](https://m.facebook.com/Rajatchouadhary09?ref=bookmarks)
+### **Link to my Facebook :** [Fb](https://m.facebook.com/rajatchouadhary09?ref=bookmarks)
 ### **Link to my Twitter :** [Twitter](https://twitter.com/RajatCh28194994)
 ### **Link to my LinkedIn :** [LinkedIn](https://www.linkedin.com/in/rajat-choudhary-985ab7125)
