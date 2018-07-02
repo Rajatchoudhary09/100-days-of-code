@@ -4,4 +4,4 @@
 ## My public announcement 
 1. [Twitter Commitment](https://twitter.com/RajatCh28194994)
 
-2. [LinkedIn Commitment](https://www.linkedin.com/feed/update/urn:li:activity:6419136040908492800)
+2. [LinkedIn Commitment](https://www.linkedin.com/in/rajat-choudhary-985ab7125)
