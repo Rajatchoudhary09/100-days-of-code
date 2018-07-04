@@ -10,11 +10,11 @@ a=parseInt(a);
 b=parseInt(b);
 switch(op)
 {
-case '+':console.log('sum of '+a+' and '+b+'is'+a+b);
+case '+':console.log('sum of '+a+' and '+b+'is'+(a+b));
 break;
-case '-':console.log('subtraction of'+a+'and'+b+'is'+a-b);
+case '-':console.log('subtraction of'+a+'and'+b+'is'+(a-b));
 break;
-case '/':console.log('Division of '+a+' and '+b+'is'+a/b);
+case '/':console.log('Division of '+a+' and '+b+'is'+a/b;
 break;
 case '%':console.log('Moduler of '+a+' and '+b+'is'+a%b);
 break;
